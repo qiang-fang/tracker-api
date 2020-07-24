@@ -1,4 +1,3 @@
-// const { db } = require("mongodb");
 /* global db print */
 /* eslint no-restricted-globals: "off" */
 db.issues.remove({});
